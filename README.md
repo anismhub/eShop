@@ -1,11 +1,11 @@
 # eShop
-Final Project 2 Hacktiv8
-
-Admin Account :
-email : Admin@gmail.com
-pass  : admin123
-
-Dibuat Oleh :
-Muhamad Anis
-Justine Ferdhika
+Final Project 2 Hacktiv8 <br />
+<br />
+Admin Account : <br />
+email : Admin@gmail.com <br />
+pass  : admin123 <br />
+<br />
+Dibuat Oleh : <br />
+Muhamad Anis <br />
+Justine Ferdhika <br />
 Putri Almadea
